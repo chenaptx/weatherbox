@@ -1,0 +1,17 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background: url("./images/darkTrianglespng.png") 0% 0% / 200px 200px repeat padding-box
+      border-box scroll,
+    rgb(36, 37, 38);
+  padding: 8px 20px;
+}
+.text {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 12px;
+  position: relative;
+  text-align: right;
+  color: rgb(211, 211, 211);
+  font-weight: 600;
+}

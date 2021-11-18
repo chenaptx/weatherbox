@@ -1,0 +1,21 @@
+.root {
+  display: flex;
+  width: 36px;
+  height: 24px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  background: rgb(50, 114, 19);
+  border-radius: 12px;
+  padding: 2px;
+}
+.freeBox {
+  display: block;
+  position: relative;
+  width: 19px;
+  height: 19px;
+  background: rgb(255, 255, 255);
+  flex-shrink: 0;
+  border-radius: 50%;
+}

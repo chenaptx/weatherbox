@@ -1,0 +1,6 @@
+.root:global(.__wab_instance) {
+  position: relative;
+}
+.text {
+  color: rgb(255, 122, 105);
+}

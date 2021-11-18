@@ -1,0 +1,15 @@
+.root {
+  height: auto;
+  color: rgb(48, 143, 232);
+  position: relative;
+  padding: 6px 12px;
+  border: 1px solid rgb(48, 143, 232);
+}
+.root__type_primary {
+  color: rgb(255, 255, 255);
+  background: rgb(48, 143, 232);
+}
+.root__type_danger {
+  color: rgb(232, 48, 48);
+  border-color: rgb(232, 48, 48);
+}

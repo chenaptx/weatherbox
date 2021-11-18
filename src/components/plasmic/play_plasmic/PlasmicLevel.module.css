@@ -1,0 +1,192 @@
+.root {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox__jaZZ {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 100%;
+  min-height: 0;
+}
+.freeBox__aYff9 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  height: 100%;
+  min-height: 0;
+  padding: 20px;
+}
+.freeBox__aYff9 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-height: 0;
+  margin-left: calc(0px - 20px);
+  width: calc(100% + 20px);
+}
+.freeBox__aYff9 > :global(.__wab_flex-container) > *,
+.freeBox__aYff9 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__aYff9 > :global(.__wab_flex-container) > picture > img,
+.freeBox__aYff9
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 20px;
+}
+.freeBox___4ErYb {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.freeBox___4ErYb > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-width: 0;
+  min-height: 0;
+  margin-left: calc(0px - 0px);
+  width: calc(100% + 0px);
+  margin-top: calc(0px - 20px);
+  height: calc(100% + 20px);
+}
+.freeBox___4ErYb > :global(.__wab_flex-container) > *,
+.freeBox___4ErYb > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___4ErYb > :global(.__wab_flex-container) > picture > img,
+.freeBox___4ErYb
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.freeBox__jOiaK {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.text__si0Yw {
+  font-family: Press Start 2p;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(122, 125, 130);
+  text-transform: uppercase;
+  position: relative;
+}
+.slotTargetNumber {
+  font-family: Press Start 2p;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(122, 125, 130);
+  text-transform: uppercase;
+}
+.text__a1Bkr {
+  position: relative;
+}
+.text___81H5Y {
+  font-family: Press Start 2p;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(122, 125, 130);
+  text-transform: uppercase;
+  position: relative;
+}
+.freeBox__pbbtg {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  margin-top: calc(-12px + 20px) !important;
+}
+.freeBox__pbbtg > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.freeBox__pbbtg > :global(.__wab_flex-container) > *,
+.freeBox__pbbtg > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__pbbtg > :global(.__wab_flex-container) > picture > img,
+.freeBox__pbbtg
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 10px;
+}
+.slotTargetTitle {
+  font-size: 32px;
+  font-family: Bungee;
+  line-height: 1.25;
+}
+.slotTargetTitle > *,
+.slotTargetTitle > .__wab_slot > *,
+.slotTargetTitle > .__wab_slot > .__wab_slot > *,
+.slotTargetTitle > .__wab_slot > .__wab_slot > .__wab_slot > *,
+.slotTargetTitle > picture > img,
+.slotTargetTitle > .__wab_slot > picture > img,
+.slotTargetTitle > .__wab_slot > .__wab_slot > picture > img,
+.slotTargetTitle > .__wab_slot > .__wab_slot > .__wab_slot > picture > img {
+  width: auto;
+}
+.text__dM7Mb {
+  position: relative;
+}
+.text___3DW88 {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+}
+.freeBox__pav66 {
+  box-shadow: inset 0px 0px 2px 1px rgba(0, 0, 0, 0.07);
+  background: rgb(255, 255, 255);
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 177px;
+  min-width: 0;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: dashed;
+}
+.freeBox__uffId {
+  display: block;
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  left: 160px;
+  top: 19px;
+  border-width: 1px;
+  border-style: dashed;
+}
+.text__euBq1 {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+}
+.freeBox__vuarJ {
+  display: inline-flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+}
+.footer:global(.__wab_instance) {
+  position: relative;
+}

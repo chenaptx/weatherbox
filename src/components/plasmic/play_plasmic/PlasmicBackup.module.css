@@ -1,0 +1,87 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  min-width: 0;
+  min-height: 0;
+}
+.level:global(.__wab_instance) {
+  position: relative;
+}
+.text___1Ysf5 {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+  width: auto;
+  display: inline-block;
+}
+.text___3Iogm {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+  width: auto;
+  display: inline-block;
+}
+.text__tl01K {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+  width: auto;
+  display: inline-block;
+}
+.text___9DboA {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+  position: relative;
+  height: auto;
+  width: auto;
+  display: inline-block;
+}
+.text___0MuLq {
+  position: relative;
+}
+.freeBox {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 16px);
+  width: calc(100% + 16px);
+}
+.freeBox > :global(.__wab_flex-container) > *,
+.freeBox > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox > :global(.__wab_flex-container) > picture > img,
+.freeBox
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 16px;
+}
+.img {
+  display: flex !important;
+  position: relative;
+  object-fit: cover;
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.text__b3Id5 {
+  height: auto;
+}

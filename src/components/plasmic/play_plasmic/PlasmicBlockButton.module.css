@@ -1,0 +1,33 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 4px);
+  width: calc(100% + 4px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 4px;
+}
+.root__variants_following {
+  position: relative;
+}
+.svg {
+  display: flex;
+  position: relative;
+  object-fit: cover;
+  width: 15px;
+  height: 15px;
+  color: rgb(221, 221, 221);
+  flex-shrink: 0;
+}
+.text {
+  color: rgb(181, 181, 181);
+}

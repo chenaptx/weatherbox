@@ -1,0 +1,8 @@
+.root {
+  color: rgb(255, 255, 255);
+  position: relative;
+  background: rgb(48, 143, 232);
+  padding: 5px 10px;
+  border-width: 1px;
+  border-style: none;
+}

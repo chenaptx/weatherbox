@@ -1,0 +1,23 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  position: relative;
+}
+.bullet:global(.__wab_instance) {
+  flex-shrink: 0;
+}
+.freeBox__ocmB2 {
+  height: auto;
+  display: flex;
+  flex-direction: row;
+}
+.freeBox__fhHWn {
+  display: flex;
+  position: relative;
+}
+.slotTargetChildren {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+}

@@ -1,0 +1,35 @@
+.root {
+  display: block;
+  width: 421px;
+  height: 175px;
+  position: relative;
+  background: rgba(68, 192, 255, 0.2);
+}
+.text__ddSr {
+  position: absolute;
+  left: 91px;
+  top: 16px;
+  font-weight: 700;
+}
+.text__iqkzr {
+  position: absolute;
+  left: 92px;
+  top: 52px;
+  width: 313px;
+}
+.img {
+  display: flex !important;
+  position: absolute;
+  object-fit: cover;
+  width: 70px;
+  height: 70px;
+  left: 9px;
+  top: 17px;
+  border-radius: 99px;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: cover;
+}

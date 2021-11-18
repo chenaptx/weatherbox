@@ -1,0 +1,15 @@
+.root {
+  width: 24px;
+  height: auto;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+.freeBox {
+  display: flex;
+  position: relative;
+}
+.slotTargetChildren {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 16px;
+}

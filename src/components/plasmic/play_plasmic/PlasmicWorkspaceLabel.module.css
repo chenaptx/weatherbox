@@ -1,0 +1,16 @@
+.root {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+}
+.freeBox {
+  display: flex;
+  position: relative;
+}
+.slotTargetChildren {
+  font-family: Press Start 2p;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(122, 125, 130);
+  text-transform: uppercase;
+}
